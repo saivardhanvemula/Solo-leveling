@@ -54,3 +54,11 @@ h1{
 .bottom>img{
     width: 50%;
 }
+@media (min-width:500px){
+    .top{
+        min-width:0px;
+        object-fit:contain;
+    }
+}
+ margin: 0;
+}
