@@ -59,10 +59,13 @@ h1 {
 .bottom > img {
   width: 50%;
 }
-* {
+/* * {
   margin: 0;
-}
+} */
 @media (max-width: 500px) {
+    .left{
+        width:40%;
+    }
   .top > img {
     object-fit: contain;
     min-width: 0px;
